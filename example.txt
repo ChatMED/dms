@@ -1,0 +1,11 @@
+This is a test file uploaded using Python API to MinIO.
+
+Date: 2025-01-11
+Purpose: To test the functionality of the MinIO upload process using the Python client.
+
+Sample Content:
+- Line 1: Hello, MinIO!
+- Line 2: This is a simple file to test file upload.
+- Line 3: Success is achieved if this file is stored correctly.
+
+End of File

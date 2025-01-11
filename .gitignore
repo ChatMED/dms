@@ -1,0 +1,2 @@
+# Ignore MinIO access log
+minio_access.log
